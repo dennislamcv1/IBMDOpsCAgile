@@ -1,5 +1,6 @@
-# IBMDOpsCAgile
-## DevOps, Cloud, and Agile Foundations Specialization
+# IBMDOPSCAGILE
+
+## DevOps, Cloud, and Agile Foundations Specialization (3 course series)
 
 DevOps is more than just a fusion of development and operations. It is the cultural change that organizations everywhere are adopting to become more agile and innovate at scale. It makes it easier to deliver software and services at the speed the market demands.
 
